@@ -1,32 +1,7 @@
 <div align="center">
 <h1 align="center">ChangeMamba</h1>
 
-<h3>ChangeMamba: Remote Sensing Change Detection with Spatio-Temporal State Space Model</h3>
 
-[Hongruixuan Chen](https://scholar.google.ch/citations?user=XOk4Cf0AAAAJ&hl=zh-CN&oi=ao)<sup>1 #</sup>, [Jian Song](https://scholar.google.ch/citations?user=CgcMFJsAAAAJ&hl=zh-CN)<sup>1,2 #</sup>, [Chengxi Han](https://chengxihan.github.io/)<sup>3</sup>, [Junshi Xia](https://scholar.google.com/citations?user=n1aKdTkAAAAJ&hl=en)<sup>2</sup>, [Naoto Yokoya](https://scholar.google.co.jp/citations?user=DJ2KOn8AAAAJ&hl=en)<sup>1,2 *</sup>
-
-<sup>1</sup> The University of Tokyo, <sup>2</sup> RIKEN AIP,  <sup>3</sup> Wuhan University.
-
-<sup>#</sup> Equal contribution, <sup>*</sup> Corresponding author
-
-
-[![TGRS paper](https://img.shields.io/badge/TGRS-paper-00629B.svg)](https://ieeexplore.ieee.org/document/10565926)  [![arXiv paper](https://img.shields.io/badge/arXiv-paper-b31b1b.svg)](https://arxiv.org/pdf/2404.03425.pdf)
-
-[**Overview**](#overview) | [**Get Started**](#%EF%B8%8Flets-get-started) | [**Taken Away**](#%EF%B8%8Fresults-taken-away) | [**Common Issues**](#common-issues) | [**Others**](#q--a) | [**简体中文版**](./README_zh-CN.md)
-
-
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/changemamba-remote-sensing-change-detection/change-detection-on-sysu-cd)](https://paperswithcode.com/sota/change-detection-on-sysu-cd?p=changemamba-remote-sensing-change-detection)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/changemamba-remote-sensing-change-detection/change-detection-on-levir)](https://paperswithcode.com/sota/change-detection-on-levir?p=changemamba-remote-sensing-change-detection)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/changemamba-remote-sensing-change-detection/change-detection-on-whu-cd)](https://paperswithcode.com/sota/change-detection-on-whu-cd?p=changemamba-remote-sensing-change-detection)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/changemamba-remote-sensing-change-detection/change-detection-on-second)](https://paperswithcode.com/sota/change-detection-on-second?p=changemamba-remote-sensing-change-detection)
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/changemamba-remote-sensing-change-detection/2d-semantic-segmentation-on-xbd)](https://paperswithcode.com/sota/2d-semantic-segmentation-on-xbd?p=changemamba-remote-sensing-change-detection)
-
-</div>
-
-
-<p align="center">
-  <img src="figures/STLM.png" alt="arch" width="60%">
-</p>
 
 
 ## 🗝️Let's Get Started!
